@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rajib Ghosh</h1>
-<h3 font-size="20" align="center">A passionate full stack developer,open source enthusiast and a student from India.</h3>
+<h3 font-size="20" align="center">A passionate Full stack & Blockchain developer,open source enthusiast and a student from India.</h3>
 
 
  <img align="right" style="width:20rem; height:auto" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif"/>
@@ -55,9 +55,17 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
       alt="java"/> 
   </a>
+        <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
+  </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.19/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"
+      alt="Solidity"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"

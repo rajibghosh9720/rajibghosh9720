@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rajib Ghosh</h1>
-<h3 font-size="20" align="center">A passionate Full stack & Blockchain developer,open source enthusiast and a student from India.</h3>
+<h3 font-size="20" align="center">A passionate Full stack & Blockchain developer, open source enthusiast and a student from India.</h3>
 
 
  <img align="right" style="width:20rem; height:auto" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif"/>

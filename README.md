@@ -110,15 +110,8 @@
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/>
-  </a>
-    <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
-      alt="php"/> 
-  </a> 
+      alt="mongodb"/>
+   </a> 
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>

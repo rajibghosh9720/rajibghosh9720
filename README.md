@@ -208,3 +208,8 @@
 </p>
 
 ----
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibghosh9720&show_icons=true&locale=en&layout=compact" alt="rajibghosh9720" /></p>
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibghosh9720&" alt="rajibghosh9720" /></p>

@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 📫 How to reach me  [**rg2482@cse.jgec.ac.in**](#)
+- 📫 How to reach me  [**rghosh9720@gmail.com**](#)
 
 - 👨‍💻 All of my projects are available [#](#)
 
